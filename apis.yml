@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Poland
     description: "Poland Government Open Data"
     humanURL: https://dane.gov.pl/en
-    baseURL: https://dane.gov.pl/en
     tags:
       - Government
     properties:
